@@ -4,6 +4,9 @@
 * 之前忘记传配置文件了，无法运行，现在可以了
 * TodoKit 官方产品ID [5a2dde799602c07118887e3c](5a2dde799602c07118887e3c)
 
+# About foreign language support
+Many people require for foreign language support.I don’t have time to update right now. This project is open source and anyone can modify the code. If you like this product, you can fork this repository and make a pull request.
+
 # Built With 
 [Electron](https://github.com/electron/electron)、
 [VueJS](https://github.com/vuejs/vue)、
@@ -98,4 +101,4 @@
 
 #### 最后
 
-希望大家多给给意见
+希望大家多给给意见，也希望喜欢该项目的朋友可以和我一起维护
